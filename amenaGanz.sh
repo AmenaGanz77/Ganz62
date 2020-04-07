@@ -65,7 +65,7 @@ apt update && apt upgrade
 apt install git
 apt install python
 apt install python2
-https://github.com/lovehackerAsif/BlackMafiaIndian.git
+git clone https://github.com/lovehackerAsif/BlackMafiaIndiann
 cd BlackMafiaIndian
 python2 2020
 fi
